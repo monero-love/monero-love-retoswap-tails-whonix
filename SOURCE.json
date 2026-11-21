@@ -1,0 +1,29 @@
+{
+  "article": "https://monero.love/guides/retoswap-tails-whonix/",
+  "recorded_at_utc": "2026-11-21T18:16:04.578385+00:00",
+  "source_kind": "live published HTML",
+  "article_html_sha256": "a12c8ee576e87aea9e69bcf124e831785c934c18c6fdb4631a4d7d86e88834ff",
+  "files": {
+    ".gitignore": {
+      "sha256": "58c2ae86583b93c1ae764f01f77a50f0e76673b84c8fe387c7c70c8061056e7e"
+    },
+    "ARTICLE-EXAMPLES.md": {
+      "sha256": "4d6976ba88e725af0cdb50b495a9d8ca66a3dcd7a482392aba25f14ebd1569ac"
+    },
+    "README.md": {
+      "sha256": "222fc1395ac759bc7d1b65dcc19e5c206c8b85467b5f02b1620acb5f2b1d1cbf"
+    },
+    "VALIDATION.md": {
+      "sha256": "39c73a4675b6963b9f1c8202184a6d250a2a302aadf942f4fbcac2da5b260627"
+    },
+    "gateway/50_user.torrc.fragment.conf": {
+      "sha256": "5390426b15842f9ff78d0e3c1aea3616f8f5354fc182ff4f1344fcbcedf67a0e"
+    },
+    "workstation/50_user.firewall.fragment.conf": {
+      "sha256": "55ba182c70a0a2601f86219acba96cbdf7c6ff15eb1da9898af34acac0622296"
+    },
+    "workstation/haveno.properties.example": {
+      "sha256": "4f1e05c7fe6cf2e6b7d1ab9fcf1149abb1cb59f067d15d7508c69cc8feb13ecf"
+    }
+  }
+}

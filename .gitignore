@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+*.key
+*.keys
+*.pem
+*.auth
+*.auth_private
+wallets/
+chain/
+onion/
+*.local.conf
